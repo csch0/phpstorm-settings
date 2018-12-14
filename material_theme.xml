@@ -1,0 +1,14 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="arrowsStyle" value="Darcula" />
+    <option name="darkTitleBar" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="statusBarTheme" value="false" />
+    <option name="useMaterialIcons" value="false" />
+    <option name="useProjectViewDecorators" value="false" />
+    <option name="settingsSelectedTab" value="2" />
+    <option name="selectedTheme" value="MONOKAI" />
+    <option name="userId" value="-68bf22b3:1678d76ccb3:-8000" />
+    <option name="version" value="3.0.0-rc4" />
+  </component>
+</application>
